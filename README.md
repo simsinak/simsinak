@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sina Askarnejad</h1>
 <h3 align="center">An Experienced Java Software Developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simsinak" alt="simsinak" /></a> </p>
-
 - 🔭 I’m currently working on **Instant Payment Project**
 
 - 🌱 I’m currently learning **Reactive Programming**
